@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 
-"""
- * @file dbClean.py
- * Used in CS498RK MP4 to empty database of all users and tasks.
- *
- * @author Aswin Sivaraman
- * @date Created: Spring 2015
- * @date Modified: Spring 2015
- * @date Modified: Spring 2019
-"""
+
 
 import sys
 import getopt
